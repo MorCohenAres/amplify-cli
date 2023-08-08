@@ -3,7 +3,7 @@
   "version": "12.2.3",
   "description": "Amplify CLI",
   "repository": {
-    "type": "git",
+    "type": "gitt",
     "url": "https://github.com/aws-amplify/amplify-cli.git",
     "directory": "packages/amplify-cli"
   },
